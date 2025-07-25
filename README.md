@@ -5,4 +5,6 @@
 - 修复cos自定义域名生成的签名失效的问题
 - 更新腾讯云 cos-sdk-v5-7.phar和cos-sdk-v5-6.phar
   
+![GitHub图像](https://github.com/lww334455/TypechoPluginCos/blob/main/cos1.jpg)
+![GitHub图像](https://github.com/lww334455/TypechoPluginCos/blob/main/cos2.jpg)
 
